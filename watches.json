@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch Series 99999",
+    "price": 379.00
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy Watch 6",
+    "price": 269.99
+  },
+  {
+    "id": 3,
+    "name": "Fitbit Sense 2",
+    "price": 249.95
+  },
+  {
+    "id": 4,
+    "name": "Amazfit GTS 2e",
+    "price": 49.99
+  },
+  {
+    "id": 5,
+    "name": "Google Pixel Watch 2",
+    "price": 339.99
+  }
+]
